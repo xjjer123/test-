@@ -1,16 +1,8 @@
-111111
-22222222
-
-# Heading level 1
-
-## Heading level 2
-### Heading level 3
-#### Heading level 4
-##### Heading level 5
-###### Heading level 6
 
 
-
+```plantuml
+@startmindmap
+skinparam svgLinkTarget _blank
 
 * 规则流程
 ** 公司
@@ -26,3 +18,5 @@
 *** [[https://github.com/xjjer123/test-/pulse 开源选型、使用、维护指导 ]]
 *** [[https://github.com/xjjer123/test-/pulse 首次引入开源软件\n评估模板]]
 *** [[https://github.com/xjjer123/test-/pulse 开源风险项异常说明和备案要求]]
+@endmindmap
+```
