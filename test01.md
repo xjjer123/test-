@@ -2,7 +2,7 @@
 
 ```plantuml
 @startmindmap
-skinparam svgLinkTarget _blank
+skinparam svgLinkTarget_blank
 
 * 规则流程
 ** 公司
